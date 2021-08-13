@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeanStreetGoose
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in ... Networking
 - 🌱 I’m currently learning ... Node.js
 - 💞️ I’m looking to collaborate on ...
